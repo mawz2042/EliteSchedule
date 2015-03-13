@@ -1,0 +1,15 @@
+{
+  "name": "SideMenuForWeekend",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.14",
+    "ionicons": "~2.0.1",
+    "lodash": "~3.3.0",
+    "angular-cache": "~3.2.5",
+    "angular-google-maps": "~2.0.13",
+    "showdown": "~0.3.4"
+  },
+  "resolutions": {
+    "lodash": "~2.4.1"
+  }
+}
